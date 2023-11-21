@@ -1,0 +1,162 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.layout{
+  width: 100vw;
+  height: flex; 
+  background: '#C8C8C8';
+
+  display: 'inline-flex';
+}
+.menu-bar{
+  display: flex;
+  flex-wrap: nowrap;
+  height: 75px; 
+
+  background: 'white';
+  justify-content: center;
+  align-items: center;
+} 
+
+.menu-items{
+  width: 60vw;
+  height: 75px;
+
+  margin-right: 1.5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu-items-0{
+  width: 120;
+  height: 75px;
+  justify-content: center;
+  align-items: center;
+  color: 'black';
+  margin: 1.5%;
+  padding: 1.3%;
+  border: none;
+  background-color: white;
+}
+.menu-items-0:hover{
+  background-color: gray;
+  cursor: pointer
+}
+.menu-items-1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: 'black';
+  background-color: white;
+  border: none
+}
+.menu-items-1:hover{
+  background-color: gray;
+  cursor: pointer
+}
+
+.content-layout{
+  width: 100vw;
+  height: flex;
+  background-color: #B8C0DB;
+  display: 'flex';
+  border: none;
+  padding: 20px;
+}
+
+.content-items{
+  flex-wrap: wrap;
+  display: 'flex';
+  width: 100vw;
+  height: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+}
+
+.content-greet{
+  border: none;
+}
+
+
+.icon-button-0{
+  border: none;
+  background-color: #B8C0DB;
+}
+.icon-button-0:hover{
+
+  cursor: pointer;
+}
+
+.mypic{
+  width: 40;
+}
+
+.gap{
+  width: 100vw;
+  height: 30px;
+}
+
+.header-double-content{
+  border: none;
+}
+
+.bottom-bar{
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-item-0{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-item-1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+.contact-item-1:hover{
+  cursor: pointer
+}
