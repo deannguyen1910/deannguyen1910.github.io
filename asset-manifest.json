@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/deannguyen1910.github.io/static/css/main.8ad37363.css",
-    "main.js": "/deannguyen1910.github.io/static/js/main.22ad5d0d.js",
-    "static/js/787.7da95b79.chunk.js": "/deannguyen1910.github.io/static/js/787.7da95b79.chunk.js",
-    "static/media/Instagram_logo_2022.svg.png": "/deannguyen1910.github.io/static/media/Instagram_logo_2022.svg.7c266de6521d2021e669.png",
-    "static/media/my_pic.jpeg": "/deannguyen1910.github.io/static/media/my_pic.4b2f7b95d93f710d53da.jpeg",
-    "static/media/IntelliJ_IDEA_Icon.svg.png": "/deannguyen1910.github.io/static/media/IntelliJ_IDEA_Icon.svg.45af9d3c3245f5fcac85.png",
-    "static/media/Visual_Studio_Code_1.35_icon.svg.png": "/deannguyen1910.github.io/static/media/Visual_Studio_Code_1.35_icon.svg.19edc3fbac1c451f289d.png",
-    "static/media/linkedin_button.png": "/deannguyen1910.github.io/static/media/linkedin_button.6ac77341c7a1f1743ba6.png",
-    "static/media/Adobe_Acrobat_DC_logo_2020.svg.png": "/deannguyen1910.github.io/static/media/Adobe_Acrobat_DC_logo_2020.svg.64473d350099821d9f8e.png",
-    "static/media/mainlogo.png": "/deannguyen1910.github.io/static/media/mainlogo.3e82a26de1fe1e5abff2.png",
-    "static/media/google-logo-icon-png-transparent-background-osteopathy-16.png": "/deannguyen1910.github.io/static/media/google-logo-icon-png-transparent-background-osteopathy-16.7c301fd6a8d5b45b3c23.png",
-    "static/media/Notion_app_logo.png": "/deannguyen1910.github.io/static/media/Notion_app_logo.7aa264a898951e791ee3.png",
-    "static/media/Discord-logo.png": "/deannguyen1910.github.io/static/media/Discord-logo.a3f3edcee54b04fbc8d6.png",
-    "static/media/slack-logo.webp": "/deannguyen1910.github.io/static/media/slack-logo.db0038b5521424846592.webp",
-    "index.html": "/deannguyen1910.github.io/index.html",
-    "main.8ad37363.css.map": "/deannguyen1910.github.io/static/css/main.8ad37363.css.map",
-    "main.22ad5d0d.js.map": "/deannguyen1910.github.io/static/js/main.22ad5d0d.js.map",
-    "787.7da95b79.chunk.js.map": "/deannguyen1910.github.io/static/js/787.7da95b79.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.8ad37363.css",
+    "main.js": "/portfolio/static/js/main.a52363db.js",
+    "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/Instagram_logo_2022.svg.png": "/portfolio/static/media/Instagram_logo_2022.svg.7c266de6521d2021e669.png",
+    "static/media/my_pic.jpeg": "/portfolio/static/media/my_pic.4b2f7b95d93f710d53da.jpeg",
+    "static/media/IntelliJ_IDEA_Icon.svg.png": "/portfolio/static/media/IntelliJ_IDEA_Icon.svg.45af9d3c3245f5fcac85.png",
+    "static/media/Visual_Studio_Code_1.35_icon.svg.png": "/portfolio/static/media/Visual_Studio_Code_1.35_icon.svg.19edc3fbac1c451f289d.png",
+    "static/media/linkedin_button.png": "/portfolio/static/media/linkedin_button.6ac77341c7a1f1743ba6.png",
+    "static/media/Adobe_Acrobat_DC_logo_2020.svg.png": "/portfolio/static/media/Adobe_Acrobat_DC_logo_2020.svg.64473d350099821d9f8e.png",
+    "static/media/mainlogo.png": "/portfolio/static/media/mainlogo.3e82a26de1fe1e5abff2.png",
+    "static/media/google-logo-icon-png-transparent-background-osteopathy-16.png": "/portfolio/static/media/google-logo-icon-png-transparent-background-osteopathy-16.7c301fd6a8d5b45b3c23.png",
+    "static/media/Notion_app_logo.png": "/portfolio/static/media/Notion_app_logo.7aa264a898951e791ee3.png",
+    "static/media/Discord-logo.png": "/portfolio/static/media/Discord-logo.a3f3edcee54b04fbc8d6.png",
+    "static/media/slack-logo.webp": "/portfolio/static/media/slack-logo.db0038b5521424846592.webp",
+    "index.html": "/portfolio/index.html",
+    "main.8ad37363.css.map": "/portfolio/static/css/main.8ad37363.css.map",
+    "main.a52363db.js.map": "/portfolio/static/js/main.a52363db.js.map",
+    "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8ad37363.css",
-    "static/js/main.22ad5d0d.js"
+    "static/js/main.a52363db.js"
   ]
 }
