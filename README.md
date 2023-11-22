@@ -1,7 +1,7 @@
 # Portfolio
 * Hello there! 👋 I'm Duc Viet Nguyen, and I'm excited to share my portfolio with you. 
 * This is the repository that reserves the source of my portfolio website. 
-* ![My website](https://deannguyen1910.github.io/portfolio/)
+* [My website](https://deannguyen1910.github.io/portfolio/)
 
 ## 🚀 What You'll Find Here:
 ### Overview:
